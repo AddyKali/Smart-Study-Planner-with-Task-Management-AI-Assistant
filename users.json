@@ -1,0 +1,8 @@
+{
+    "users": [
+        {
+            "username": "adarsh",
+            "password": "scrypt:32768:8:1$7CqRg8tfrSshBweD$4970e9911fd2a0694a48bfd30f4bc5664d1df4687d82fec58219b12dc226cb95631d8aea160ba16701aaab7c582bb5b2c07d5d75543c12f17a36e2a37bd7284c"
+        }
+    ]
+}
